@@ -20,7 +20,7 @@ GREEN_CAR = scale_image(pygame.image.load("imgs/green-car.png"), 0.55)
 
 WIDTH, HEIGHT = TRACK.get_width(), TRACK.get_height()
 WIN = pygame.display.set_mode((WIDTH, HEIGHT))
-pygame.display.set_caption("Racing Game!")
+pygame.display.set_caption("Python Racer")
 
 MAIN_FONT = pygame.font.SysFont("comicsans", 44)
 
