@@ -11,9 +11,9 @@ Race AGAINST "AI" PLAYER TO THE FINISH LINE!
 
 :: KEYBOARD FUNCTIONS ::
 
-MOVE-FORWARD -> up-arrow
+MOVE-FORWARD -> up-arrow (HOLD)
 
-MOVE-BACKWARD -> down-arrow
+MOVE-BACKWARD -> down-arrow (HOLD)
 
 MOVE-LEFT -> left-arrow
 
